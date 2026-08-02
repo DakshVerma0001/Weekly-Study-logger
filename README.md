@@ -31,6 +31,8 @@ Once you've finished setting up the Settings sheet, you're ready to start using 
 
 The workbook is designed around a simple weekly workflow.
 
+*DOWNLOAD THE EXCEL FILE LOCALLY ON YOUR PC*
+
 ### Step 1 — Set Up Your Week
 
 Go to the **Settings** sheet and update the **Week Start Date**.
